@@ -4,3 +4,5 @@
 
 Battlecrusier operational! Ура! Я отправляю первый пулл-реквест!
 
+Ура!
+
